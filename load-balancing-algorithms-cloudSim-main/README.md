@@ -2,7 +2,6 @@
 
 The following load balancing algorithms are implemented:<br/>
 ➢ Round Robin Algorithm<br/>
-➢ Weighted Round Robin Algorithm<br/>
 ➢ Threshold Based Algorithm<br/>
 ➢ Honey Bee Foraging Algorithm<br/>
 ➢ Ant Colony Optimization<br/>
